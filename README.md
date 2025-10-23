@@ -9,7 +9,7 @@
 
 - For specifications and instructions, see the [analog specs page](https://tinytapeout.com/specs/analog/).
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
-- Submiting and share your project:
+- Submiting and sharing your project:
   - [Submit your design to the next shuttle](https://app.tinytapeout.com/)
   - LinkedIn [#tinytapeout](https://www.linkedin.com/search/results/content/?keywords=%23tinytapeout) [@TinyTapeout](https://www.linkedin.com/company/100708654/)
 - **Previous work by PS25 team**:
